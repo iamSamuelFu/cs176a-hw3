@@ -13,6 +13,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <sys/time.h>
+#include <time.h>
 
 #define TIMEOUT 60
 #define BUFSIZE 256
